@@ -34,3 +34,8 @@ serverless deploy
 ## Configuration
 The function is triggered on a schedule using AWS CloudWatch Events. Update the schedule in serverless.yml if needed.
 
+## Sample CloudWatch log
+<div align="center">
+    <img src="/img/log.png" width="800px"</img> 
+</div>
+
